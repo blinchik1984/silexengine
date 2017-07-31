@@ -1,0 +1,14 @@
+{
+    "name": "dunaev/silex-engine",
+    "type": "library",
+    "require": {
+        "silex/silex": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "Alexander Dunaev",
+            "email": "alexander.dunaev@together.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
