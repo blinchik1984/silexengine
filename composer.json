@@ -10,5 +10,10 @@
             "email": "alexander.dunaev@together.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+          "AdServer\\Engine\\": "src"
+        }
+    }
 }
